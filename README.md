@@ -1,0 +1,1 @@
+->user wants to enter a URl then it will generate a Qr Code for that URL
